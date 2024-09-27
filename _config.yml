@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+title: Sayan Nath
+name: Sayan Nath
+position: Grad. Research Assistant 
+email: sayannath235@gmail.com
 description: >-
   Building [World Labs](https://www.worldlabs.ai/about), zero to one.
 
@@ -31,10 +31,10 @@ description: >-
   [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
   [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
+url: "https://sayannath.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sayannath235
+github_username: sayannath
+google_scholar: WcqkH2cAAAAJ
 google_analytics: G-MFWSBLRKG0
 
 # Build settings
